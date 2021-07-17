@@ -1,0 +1,37 @@
+/* This page is include in html document for desiging web page */
+body {
+  color: black;
+  text-align: center;
+  background-color: rgb(200, 200, 200);
+  margin: auto;
+  padding:2em;
+}
+
+i {
+  color: green;
+}
+h1 {
+  color: rgb(11, 165, 226);
+  font-size: 35px;
+}
+img {
+  width: 15em;
+  height: 17em;
+}
+p {
+  margin: auto;
+}
+.content {
+  text-align: start;
+}
+.footer {
+  font-size: 23px;
+}
+footer {
+  padding: 1em;
+}
+.link{
+  font-size: 20px;
+  color: purple;
+  text-align: start;
+}
